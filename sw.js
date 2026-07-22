@@ -1,4 +1,4 @@
-const CACHE = 'comeback-v1';
+const CACHE = 'comeback-v2';
 const ASSETS = [
   '/comeback-plan/',
   '/comeback-plan/index.html',
