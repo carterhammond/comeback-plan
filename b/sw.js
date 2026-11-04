@@ -1,4 +1,4 @@
-const CACHE='board-v716afcf1';
+const CACHE='board-ve1e8e40b';
 const ASSETS=['manifest.json','icon-192.png','icon-512.png','icon-180.png'];
 
 self.addEventListener('install', e => {
